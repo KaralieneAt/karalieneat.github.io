@@ -1,4 +1,4 @@
-nav{
+nav {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
@@ -39,7 +39,7 @@ nav{
     color: #fff;
 }
 
-#destacados .card-body{
+#destacados .card-body {
     background-color: #4FADCB;
 }
 
@@ -69,3 +69,21 @@ footer {
     font-weight: 600;
     color: #fff;
 }
+
+/* footer .a:link {
+    color: #fff;
+
+}
+
+footer .a:visited {
+    color: #fff;
+}
+
+
+footer .a:hover {
+    text-decoration: none;
+}
+
+footer .a:active {
+    text-decoration: none;
+} */
