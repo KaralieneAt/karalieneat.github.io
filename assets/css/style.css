@@ -1,0 +1,66 @@
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #198754;
+}
+
+/* quienessomos */
+
+#quienessomos .card-header {
+    background-color: #4FADCB;
+    color: #fff;
+}
+
+#quienessomos .text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #37883D;
+}
+
+/* destacados */
+
+#destacados .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+}
+
+#destacados .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+}
+
+#destacados .card-body{
+    background-color: #4FADCB;
+}
+
+/* form */
+.subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #198754;
+}
+
+#placeholder {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    color: #198754;
+}
+
+.bg-propio {
+    background-color: #4FADCB;
+    color: #fff;
+}
+
+/* footer */
+footer {
+    background-color: #4FADCB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #fff;
+}
