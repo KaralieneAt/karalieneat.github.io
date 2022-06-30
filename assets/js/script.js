@@ -7,13 +7,13 @@ $(document).ready(function () {
     
     $(".title").click(function () {
         $(this).css({
-            "color": "#31C82A"
+            "color": "#966BD5"
         })
     })
 
     $(".text").click(function () {
         $(this).css({
-            "color": "#A558E1"
+            "color": "#B454A8"
         })
     })
 
